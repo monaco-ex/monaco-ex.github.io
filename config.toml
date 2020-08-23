@@ -1,29 +1,29 @@
-BaseUrl= "https://syui.cf/hugo-theme-air/"
+BaseUrl= "https://www.monaco-ex.com/"
 LanguageCode= "en-US"
-Title= "Hugo Theme Air"
+Title= "Monaco-Ex"
 paginate = 5
 DisqusShortname = ""
-Copyright = "All rights reserved - 2016"
+Copyright = "All rights reserved, 2019 - 2020"
 canonifyurls = true
 
 [author]
-  name = "syui"
+  name = "MonacoEx"
 
 [permalinks]
     post = "/post/:year/:month/:day/:slug"
 
 [params]
-  description = "this is my description"
+  description = "Software, Cloud, Blockchain, and beyond"
   cover = "images/user.jpg"
-  author = "syui"
+  author = "MonacoEx"
   authorlocation = ""
-  authorwebsite = "https://syui.cf/hugo-theme-air"
-  bio= "my bio"
+  authorwebsite = "https://monaco-ex.com"
+  bio= "MonacoEx Offical"
   logo = "images/user.png"
   googleAnalyticsUserID = ""
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   RSSLink = ""
-  githubName = "syui"
+  githubName = "monaco-ex"
   twitterName = ""
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
   hideHUGOSupport = false
